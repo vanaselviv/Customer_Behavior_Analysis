@@ -1,6 +1,6 @@
 # 📊 Customer Behavior Dashboard
 
-![Customer Behavior Dashboard](image/dashboard_image.png)
+(image/dashboard_image.png)
 
 This dashboard analyzes customer purchasing behavior by summarizing key metrics and comparing patterns across customers, products, and transactions.
 
@@ -33,4 +33,5 @@ This dashboard analyzes customer purchasing behavior by summarizing key metrics 
 - Customer purchasing behavior varies significantly across product categories and age groups.
 - Discounts and subscriptions play an important role in influencing purchase decisions.
 - Shipping preferences reflect customer convenience and buying patterns.
+
 
